@@ -1,6 +1,6 @@
 # domf
 
-This tool will use three different subdomain finder tool so you need to install first sublist3r, amass and asset finder.
+This tool will use three different subdomain finder tools so you need to install first sublist3r, amass and asset finder.
 
 
 
