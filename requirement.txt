@@ -1,5 +1,2 @@
 argparse
-subprocess
-os
 requests
-sys
